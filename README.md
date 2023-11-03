@@ -6,6 +6,8 @@
 
 A simple clone of spotify home page using vite with vanila js and tailwind css.
 
+**Demo:** [Click here](https://spotify-clone.damiaoterto.dev)
+
 ## Running
 **Using npm**
 
